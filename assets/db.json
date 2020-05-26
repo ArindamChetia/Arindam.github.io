@@ -1,0 +1,18 @@
+{
+  "Employee": [
+    {
+      "Employee_name": "Arindam Chetia",
+      "Employee_mail": "chetiaarindam31@gmail.com",
+      "Employee_contactno": 9957693959,
+      "Employee_addr": "Chennai",
+      "id": 1
+    },
+    {
+      "Employee_name": "Arindam Chetia",
+      "Employee_mail": "sarkar@gmail.com",
+      "Employee_contactno": 884738469,
+      "Employee_addr": "Tripura",
+      "id": 2
+    }
+  ]
+}
